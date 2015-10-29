@@ -4,14 +4,8 @@
 
 ### Table of Contents
 - [Books](#books)
-  - Recommend
-  - To Read
 - [Films](#film)
-  - Recommend
-  - To Watch
 - [Music](#music)
-  - Recommend
-  - To Listen
 - [Tech](#tech)
 - [Places](#places)
 - [People](#people)
@@ -20,11 +14,35 @@
 
 
 #### Books
+  - ##### Recommend
+  	- 
+  	-
+  	-
+  	-
+  	-
+  	-
+  - ##### To Read
+  	-
+  	-
+  	-
+  	-
+  	-
+  	-
+
 #### Films
+  - ##### Recommend
+  - ##### To Watch
+
 #### Music
+  - ###### Recommend
+  - ###### To Listen
+
 #### Tech
+
 #### Places
+
 #### People
+
 #### Things
 
 #### Lists
