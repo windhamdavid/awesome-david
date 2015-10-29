@@ -1,2 +1,27 @@
-# awesome-david
-something else
+## awesome-david   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+####a lists of list for things i'd like to remember
+
+
+### Table of Contents
+- [Books](#platforms)
+  - Recommend
+  - To Read
+- [Films](#film)
+  - Recommend
+  - To Watch
+- [Music](#music)
+  - Recommend
+  - To Listen
+- [Tech](#tech)
+- [Places](#places)
+- [People](#people)
+- [Things](#things)
+
+
+#### Books
+#### Films
+#### Music
+#### Tech
+#### Places
+#### People
+#### Things
