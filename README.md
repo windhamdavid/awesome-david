@@ -3,7 +3,7 @@
 
 
 ### Table of Contents
-- [Books](#platforms)
+- [Books](#books)
   - Recommend
   - To Read
 - [Films](#film)
