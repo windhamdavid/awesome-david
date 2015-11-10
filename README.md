@@ -1,5 +1,5 @@
 ## awesome-david   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-####a list of lists of things I like
+#### a list of lists of things I like
 ===
 
 ### TOC
@@ -8,20 +8,19 @@
 
 ===
 
-### Art :
+### Art
   - ##### Favorites
   
   
-#### Books :book:
+#### Books
   - ##### Recommended
   - ##### To Read
   
-#### Film :movie_camera:
+#### Film
   - ##### Recommend
   	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
   	
-  - ##### To Watch
-  - ##### Television :tv:
+  - ##### Television
     - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
 	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
 	- [Transparent](https://en.wikipedia.org/wiki/Transparent_%28TV_series%29)
@@ -36,7 +35,7 @@
 	- [Peep Show](<https://en.wikipedia.org/wiki/Peep_Show_(TV_series)>)
 	- [Catastrophe](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
 	
- - ##### Miniseries :tv:
+- ##### Miniseries
  	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
  	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
 	
@@ -48,8 +47,6 @@
     - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
   
   - ###### Recommend
-    - ###### Favorite Artist
-    - ###### Favorite Albums
   - ###### To Listen
   - ###### Online Radio :radio:
 
