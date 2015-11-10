@@ -1,32 +1,46 @@
 ## awesome-david   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-####a lists of list for things i'd like to remember
+####a list of lists of things I like
+===
 
+### TOC
 
-### Table of Contents
+[Art](#art) | [Books](#art) | [Films](#film) | [Music](#music) | [Tech](#tech) | [Places](#places) | [People](#people) | [Things](#things) | [Lists](#lists)
 
-- [Books](#books)
-- [Books](#art)
-- [Films](#film)
-- [Music](#music)
-- [Tech](#tech)
-- [Places](#places)
-- [People](#people)
-- [Things](#things)
-- [Lists](#lists)
+===
 
-
-#### Books
-  - ##### Recommend
-  	-
+### Art :
+  - ##### Favorites
+  
+  
+#### Books :book:
+  - ##### Recommended
   - ##### To Read
-  	-
-#### Art
-  - 
-#### Films
+  
+#### Film :movie_camera:
   - ##### Recommend
+  	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
+  	
   - ##### To Watch
-
-#### Music
+  - ##### Television :tv:
+    - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
+	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
+	- [Transparent](https://en.wikipedia.org/wiki/Transparent_%28TV_series%29)
+	- [Board to Death](https://en.wikipedia.org/wiki/Bored_to_Death)
+	- [Inspector Lewis](<https://en.wikipedia.org/wiki/Lewis_(TV_series)>)
+	- [Gavin and Stacey](https://en.wikipedia.org/wiki/Gavin_%26_Stacey)
+	- [Broadchurch](https://en.wikipedia.org/wiki/Broadchurch)
+	- [Last Tango in Halifax](https://en.wikipedia.org/wiki/Last_Tango_in_Halifax)
+	- [Shameless (UK Version)](<https://en.wikipedia.org/wiki/Shameless_(UK_TV_series)>)
+	- [Portlandia](<https://en.wikipedia.org/wiki/Portlandia_(TV_series)>)
+	- [An Idiot Abroad](https://en.wikipedia.org/wiki/An_Idiot_Abroad)
+	- [Peep Show](<https://en.wikipedia.org/wiki/Peep_Show_(TV_series)>)
+	- [Catastrophe](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
+	
+ - ##### Miniseries :tv:
+ 	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
+ 	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
+	
+#### Music :notes:
   - ###### Listening to:
   	- [Currently Listening to:](https://davidawindham.com/studio/music)
     - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
@@ -37,8 +51,9 @@
     - ###### Favorite Artist
     - ###### Favorite Albums
   - ###### To Listen
+  - ###### Online Radio :radio:
 
-#### Tech
+#### Tech :floppy_disk:
   - ###### Hardware
   - ###### Software
     - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
