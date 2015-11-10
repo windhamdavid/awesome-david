@@ -10,11 +10,19 @@
 
 ### Art
   - ##### Favorites
+  - ##### Artists
   
   
 #### Books
   - ##### Recommended
-  - ##### To Read
+  	- [Thinking Fast and Slow](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
+  - ##### Authors
+  	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
+  	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+  - ##### Magazine
+  	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
+  	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
+  	
   
 #### Film
   - ##### Recommend
@@ -35,11 +43,11 @@
 	- [Peep Show](<https://en.wikipedia.org/wiki/Peep_Show_(TV_series)>)
 	- [Catastrophe](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
 	
-- ##### Miniseries
+  - ##### Miniseries
  	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
  	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
 	
-#### Music :notes:
+#### Music
   - ###### Listening to:
   	- [Currently Listening to:](https://davidawindham.com/studio/music)
     - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
@@ -50,7 +58,7 @@
   - ###### To Listen
   - ###### Online Radio :radio:
 
-#### Tech :floppy_disk:
+#### Tech
   - ###### Hardware
   - ###### Software
     - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
@@ -59,7 +67,10 @@
 
 #### Places
   - ###### Been
+  	- [London](https://en.wikipedia.org/wiki/London)
+  	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
   	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
+  	
   - ###### Would Like to Go
   - ###### like
   - ###### Dislike
