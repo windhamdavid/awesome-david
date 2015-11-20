@@ -29,7 +29,7 @@
   	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
   	
   - ##### Television
-    - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
+   - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
 	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
 	- [Transparent](https://en.wikipedia.org/wiki/Transparent_%28TV_series%29)
 	- [Board to Death](https://en.wikipedia.org/wiki/Bored_to_Death)
@@ -42,6 +42,7 @@
 	- [An Idiot Abroad](https://en.wikipedia.org/wiki/An_Idiot_Abroad)
 	- [Peep Show](<https://en.wikipedia.org/wiki/Peep_Show_(TV_series)>)
 	- [Catastrophe](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
+	- [Adventure Time](<https://en.wikipedia.org/wiki/Adventure_Time)>)
 	
   - ##### Miniseries
  	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
@@ -54,26 +55,26 @@
     - [Last.fm profile](http://www.last.fm/user/windhamdavid)
     - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
   
-  - ###### Recommend
-  - ###### To Listen
-  - ###### Online Radio :radio:
+  - ##### Recommend
+  - ##### To Listen
+  - ##### Online Radio
 
 #### Tech
-  - ###### Hardware
-  - ###### Software
+  - ##### Hardware
+  - ##### Software
     - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
     - [Visualization](https://github.com/fasouto/awesome-dataviz)
-  - ###### SasS
+  - ##### SasS
 
 #### Places
-  - ###### Been
+  - ##### Been
   	- [London](https://en.wikipedia.org/wiki/London)
   	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
   	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
   	
-  - ###### Would Like to Go
-  - ###### like
-  - ###### Dislike
+  - ##### Would Like to Go
+  - ##### like
+  - ##### Dislike
 
 #### People
 
