@@ -10,6 +10,8 @@
 
 ### Art
   - ##### Favorites
+	- [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud)
+	- [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
   	
   - ##### Artists
   
@@ -51,15 +53,15 @@
 	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
 	
   - ##### Miniseries
- 	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
- 	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
+	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
+	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
 	
 #### Music
   - ###### Listening to:
-  	- [Currently Listening to:](https://davidawindham.com/studio/music)
-    - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
-    - [Last.fm profile](http://www.last.fm/user/windhamdavid)
-    - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
+	- [Currently Listening to:](https://davidawindham.com/studio/music)
+   - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
+   - [Last.fm profile](http://www.last.fm/user/windhamdavid)
+   - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
   
   - ##### Recommended
 	- [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
@@ -92,13 +94,18 @@
 	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
 	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
 
-  - ##### like
-  - ##### Dislike
+  - ##### Like
+
 
 #### People
+ - ##### 
+	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
 
 #### Things
-
+ - ##### Food & Drink
+	- [Pickles](https://en.wikipedia.org/wiki/Pickled_cucumber)
+	- [Balsamic Vinegar](https://en.wikipedia.org/wiki/Traditional_Balsamic_Vinegar)
+	- [Okra](https://en.wikipedia.org/wiki/Okra)
 
 #### Lists
 - [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
