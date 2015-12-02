@@ -15,7 +15,9 @@
   
 #### Books
   - ##### Recommended
-  	- [Thinking Fast and Slow](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
+	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+	- [Midnight's Children](https://en.wikipedia.org/wiki/Midnight%27s_Children)
+	
   - ##### Authors
   	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
   	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
@@ -26,7 +28,8 @@
   
 #### Film
   - ##### Recommend
-  	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
+	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
+	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
   	
   - ##### Television
    - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
@@ -42,7 +45,8 @@
 	- [An Idiot Abroad](https://en.wikipedia.org/wiki/An_Idiot_Abroad)
 	- [Peep Show](<https://en.wikipedia.org/wiki/Peep_Show_(TV_series)>)
 	- [Catastrophe](<https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)>)
-	- [Adventure Time](<https://en.wikipedia.org/wiki/Adventure_Time)>)
+	- [Adventure Time](https://en.wikipedia.org/wiki/Adventure_Time)
+	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
 	
   - ##### Miniseries
  	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
@@ -55,9 +59,21 @@
     - [Last.fm profile](http://www.last.fm/user/windhamdavid)
     - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
   
-  - ##### Recommend
-  - ##### To Listen
-  - ##### Online Radio
+  - ##### Recommended
+	- [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
+	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+	- [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+  
+  - ##### Radio
+	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
+	- [Radio Paradise](https://en.wikipedia.org/wiki/Radio_Paradise)
+	- [KEXP](https://en.wikipedia.org/wiki/KEXP-FM)
+	- [KZSC](https://en.wikipedia.org/wiki/KZSC)
+	- [WFMU](https://en.wikipedia.org/wiki/WFMU)
+	- [WXYC](https://en.wikipedia.org/wiki/WXYC)
+	- [WNCW](https://en.wikipedia.org/wiki/WNCW)
+	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
+  
 
 #### Tech
   - ##### Hardware
@@ -71,8 +87,7 @@
   	- [London](https://en.wikipedia.org/wiki/London)
   	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
   	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
-  	
-  - ##### Would Like to Go
+
   - ##### like
   - ##### Dislike
 
