@@ -10,6 +10,7 @@
 
 ### Art
   - ##### Favorites
+  	
   - ##### Artists
   
   
@@ -19,11 +20,12 @@
 	- [Midnight's Children](https://en.wikipedia.org/wiki/Midnight%27s_Children)
 	
   - ##### Authors
-  	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
-  	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
+	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+	
   - ##### Magazine
-  	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
-  	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
+	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
+	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
   	
   
 #### Film
@@ -77,16 +79,18 @@
 
 #### Tech
   - ##### Hardware
+	-
   - ##### Software
     - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
     - [Visualization](https://github.com/fasouto/awesome-dataviz)
   - ##### SasS
+	-
 
 #### Places
   - ##### Been
-  	- [London](https://en.wikipedia.org/wiki/London)
-  	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
-  	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
+	- [London](https://en.wikipedia.org/wiki/London)
+	- [Mumbai](https://en.wikipedia.org/wiki/Mumbai)
+	- [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
 
   - ##### like
   - ##### Dislike
