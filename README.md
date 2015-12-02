@@ -77,16 +77,7 @@
 	- [WXYC](https://en.wikipedia.org/wiki/WXYC)
 	- [WNCW](https://en.wikipedia.org/wiki/WNCW)
 	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
-  
 
-#### Tech
-  - ##### Hardware
-	-
-  - ##### Software
-    - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
-    - [Visualization](https://github.com/fasouto/awesome-dataviz)
-  - ##### SasS
-	-
 
 #### Places
   - ##### Been
@@ -102,12 +93,12 @@
 	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
 
 #### Things
- - ##### Food & Drink
+  - ##### Food & Drink
 	- [Pickles](https://en.wikipedia.org/wiki/Pickled_cucumber)
 	- [Balsamic Vinegar](https://en.wikipedia.org/wiki/Traditional_Balsamic_Vinegar)
 	- [Okra](https://en.wikipedia.org/wiki/Okra)
 
-#### Lists
+#### Other Lists
 - [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
 - [List of Internet Phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
 - [Lists of 100 best books](https://en.wikipedia.org/wiki/Lists_of_100_best_books)
