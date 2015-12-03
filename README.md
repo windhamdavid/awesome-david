@@ -63,10 +63,17 @@
    - [Last.fm profile](http://www.last.fm/user/windhamdavid)
    - [Spotify yellowball](https://embed.spotify.com/?uri=spotify%3Auser%3Awindhamdavid%3Aplaylist%3A2ynhPm8YKOkMPiVCQmR1fy)
   
-  - ##### Recommended
+  - ##### Artists
+   - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
 	- [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
 	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
 	- [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+	- [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal)
+	
+  - ##### Albums
+   - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
+	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
+	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
   
   - ##### Radio
 	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
