@@ -159,7 +159,7 @@
 
 #### People
 
- - ##### Other
+  - ##### Other
 	- [David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
 	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
 	- [David Brooks](<https://en.wikipedia.org/wiki/David_Brooks_(journalist)>)
