@@ -1,6 +1,6 @@
 ## awesome-david   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-#### a list of lists of things I like
+##### a list of lists of things I like
 
 ===
 
@@ -25,8 +25,10 @@
 	- [Half Asleep in Frog Pajamas](https://en.wikipedia.org/wiki/Half_Asleep_in_Frog_Pajamas)
 	- [Lucky You](<https://en.wikipedia.org/wiki/Lucky_You_(novel)>)
 	
+
   - ##### Non-Fiction
 	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) 
+
 	
   - ##### Authors
 	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
@@ -37,9 +39,11 @@
 	- [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
 	- [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
 	
+
   - ##### Magazine
 	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
 	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
+
 
   - ##### Other
 	- [Shakespeare Authorship Theory](https://en.wikipedia.org/wiki/Shakespeare_authorship_question)
@@ -54,6 +58,7 @@
 	- [Thumbsucker](<https://en.wikipedia.org/wiki/Thumbsucker_(film)>)
 	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
   	
+
   - ##### Television
    - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
 	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
@@ -73,18 +78,21 @@
 	- [Adventure Time](https://en.wikipedia.org/wiki/Adventure_Time)
 	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
 	
+
   - ##### Miniseries
 	- [The Life Collection](https://en.wikipedia.org/wiki/The_Life_Collection)
 	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
 	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
 	
 	
+
   - ##### People 
 	- [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini)
 	- [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
 	- [Werner Herzog](https://en.wikipedia.org/wiki/Werner_Herzog)
 	- [Larry David](https://en.wikipedia.org/wiki/Larry_David)
 	- [Larry Charles](https://en.wikipedia.org/wiki/Larry_Charles)
+
 	
 #### Music
 
@@ -93,6 +101,7 @@
    - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
    - [Last.fm profile](http://www.last.fm/user/windhamdavid)
   
+
   - ##### Artists
    - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
 	- [Art Tatum](https://en.wikipedia.org/wiki/Art_Tatum)
@@ -108,11 +117,13 @@
 	- [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
 	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)	
 	
+
   - ##### Albums
    - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
 	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
 	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
   
+
   - ##### Radio
 	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
 	- [Radio Paradise](https://en.wikipedia.org/wiki/Radio_Paradise)
@@ -133,6 +144,7 @@
 	- [Frankfurt, Germany](https://en.wikipedia.org/wiki/Frankfurt)
 	- [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago)
 	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)	
+
 
   - ##### US
 	- [St. John, USVI](https://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands)
