@@ -43,6 +43,7 @@
   - ##### Magazine
 	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
 	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
+	- [Lapham's Quarterly](https://en.wikipedia.org/wiki/Lapham%27s_Quarterly)
 
 
   - ##### Other
