@@ -39,6 +39,8 @@
 	- [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
 	- [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
 	
+   - ##### Poets
+	- [Paul Muldoon](https://en.wikipedia.org/wiki/Paul_Muldoon)
 
   - ##### Magazine
 	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
