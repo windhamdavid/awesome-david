@@ -80,6 +80,7 @@
 	- [Transparent](https://en.wikipedia.org/wiki/Transparent_%28TV_series%29)
 	- [Adventure Time](https://en.wikipedia.org/wiki/Adventure_Time)
 	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
+	- [Detectorists](https://en.wikipedia.org/wiki/Detectorists)
 	
 
   - ##### Miniseries
