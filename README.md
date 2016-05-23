@@ -138,6 +138,8 @@
 	- [WNCW](https://en.wikipedia.org/wiki/WNCW)
 	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
 	- [WFUV](https://en.wikipedia.org/wiki/WFUV)
+	- [Magic Transistor Radio](http://www.magictransistor.com/radio)
+
 
 
 #### Places
