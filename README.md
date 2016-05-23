@@ -46,7 +46,9 @@
 	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
 	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
 	- [Lapham's Quarterly](https://en.wikipedia.org/wiki/Lapham%27s_Quarterly)
-
+	
+  - ##### Online Journals
+	- [The Public Domain Review](http://publicdomainreview.org/)
 
   - ##### Other
 	- [Shakespeare Authorship Theory](https://en.wikipedia.org/wiki/Shakespeare_authorship_question)
@@ -87,8 +89,7 @@
 	- [The Life Collection](https://en.wikipedia.org/wiki/The_Life_Collection)
 	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
 	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
-	
-	
+		
 
   - ##### People 
 	- [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini)
@@ -120,6 +121,7 @@
 	- [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal)
 	- [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
 	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)	
+	- [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)	
 	
 
   - ##### Albums
