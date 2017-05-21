@@ -9,12 +9,12 @@
 ===
 
 ### Art  
- - ##### Visual Artists
-  	- [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud)
-  	- [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
-  	- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
-  	- [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
-
+ #### Visual Art
+  - ##### Artists
+	- [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud)
+	- [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
+	- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+	- [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)  
 
 #### Literature
 
@@ -28,15 +28,14 @@
   - ##### Non-Fiction
   	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
-
   - ##### Authors
-  	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
-  	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
-  	- [Thomas Pynchon](https://en.wikipedia.org/wiki/Thomas_Pynchon)
-  	- [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky)
-  	- [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
-  	- [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
-  	- [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
+    - [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
+    - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+    - [Thomas Pynchon](https://en.wikipedia.org/wiki/Thomas_Pynchon)
+    - [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky)
+    - [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
+    - [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
+    - [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
 
    - ##### Poets
   	- [Paul Muldoon](https://en.wikipedia.org/wiki/Paul_Muldoon)
