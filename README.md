@@ -84,7 +84,7 @@
 	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
 	- [Detectorists](https://en.wikipedia.org/wiki/Detectorists)
 	- [Chewin' the Fat](https://en.wikipedia.org/wiki/Chewin%27_the_Fat)
-  - [Shetland](https://en.wikipedia.org/wiki/Shetland_(TV_series))
+    - [Shetland](https://en.wikipedia.org/wiki/Shetland_(TV_series))
 
 
   - ##### Miniseries
@@ -109,88 +109,88 @@
 
 
   - ##### Artists
-    - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
-	- [Art Tatum](https://en.wikipedia.org/wiki/Art_Tatum)
-	- [Hank Jones](https://en.wikipedia.org/wiki/Hank_Jones)
-	- [Erroll Garner](https://en.wikipedia.org/wiki/Erroll_Garner)
-	- [Billy Taylor](https://en.wikipedia.org/wiki/Billy_Taylor)
-	- [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
-	- [Fats Waller](https://en.wikipedia.org/wiki/Fats_Waller)
-	- [John Coltrane](https://en.wikipedia.org/wiki/John_Coltrane)
-	- [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
-	- [Johnny Adams](https://en.wikipedia.org/wiki/Johnny_Adams)
-	- [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal)
-	- [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
-	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
-	- [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)
+      - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
+    - [Art Tatum](https://en.wikipedia.org/wiki/Art_Tatum)
+    - [Hank Jones](https://en.wikipedia.org/wiki/Hank_Jones)
+    - [Erroll Garner](https://en.wikipedia.org/wiki/Erroll_Garner)
+    - [Billy Taylor](https://en.wikipedia.org/wiki/Billy_Taylor)
+    - [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
+    - [Fats Waller](https://en.wikipedia.org/wiki/Fats_Waller)
+    - [John Coltrane](https://en.wikipedia.org/wiki/John_Coltrane)
+    - [Dmitri Shostakovich](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+    - [Johnny Adams](https://en.wikipedia.org/wiki/Johnny_Adams)
+    - [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal)
+    - [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
+    - [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+    - [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)
 
 
   - ##### Albums
-    - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
-	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
-	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
-	- [Before the Flood](https://en.wikipedia.org/wiki/Before_the_Flood_(album))
+      - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
+  	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
+  	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
+  	- [Before the Flood](https://en.wikipedia.org/wiki/Before_the_Flood_(album))
 
 
   - ##### Radio
-	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
-	- [Radio Paradise](https://en.wikipedia.org/wiki/Radio_Paradise)
-	- [KEXP](https://en.wikipedia.org/wiki/KEXP-FM)
-	- [KZSC](https://en.wikipedia.org/wiki/KZSC)
-	- [WFMU](https://en.wikipedia.org/wiki/WFMU)
-	- [WXYC](https://en.wikipedia.org/wiki/WXYC)
-	- [WNCW](https://en.wikipedia.org/wiki/WNCW)
-	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
-	- [WFUV](https://en.wikipedia.org/wiki/WFUV)
-	- [Magic Transistor Radio](http://www.magictransistor.com/radio)
+  	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
+  	- [Radio Paradise](https://en.wikipedia.org/wiki/Radio_Paradise)
+  	- [KEXP](https://en.wikipedia.org/wiki/KEXP-FM)
+  	- [KZSC](https://en.wikipedia.org/wiki/KZSC)
+  	- [WFMU](https://en.wikipedia.org/wiki/WFMU)
+  	- [WXYC](https://en.wikipedia.org/wiki/WXYC)
+  	- [WNCW](https://en.wikipedia.org/wiki/WNCW)
+  	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
+  	- [WFUV](https://en.wikipedia.org/wiki/WFUV)
+  	- [Magic Transistor Radio](http://www.magictransistor.com/radio)
 
 
 
 #### Places
 
   - ##### World
-	- [Nice, France](https://en.wikipedia.org/wiki/London)
-	- [London, England](https://en.wikipedia.org/wiki/London)
-	- [Frankfurt, Germany](https://en.wikipedia.org/wiki/Frankfurt)
-	- [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago)
-	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)
+  	- [Nice, France](https://en.wikipedia.org/wiki/London)
+  	- [London, England](https://en.wikipedia.org/wiki/London)
+  	- [Frankfurt, Germany](https://en.wikipedia.org/wiki/Frankfurt)
+  	- [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago)
+  	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)
 
 
   - ##### US
-	- [St. John, USVI](https://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands)
-	- [Hanalei, Hawaii](https://en.wikipedia.org/wiki/Hanalei,_Hawaii)
-	- [St. Helena, California](https://en.wikipedia.org/wiki/St._Helena,_California)
-	- [Burlington, Vermont](https://en.wikipedia.org/wiki/Burlington,_Vermont)
-	- [Bozeman, Montana](https://en.wikipedia.org/wiki/Bozeman,_Montana)
-	- [Santa Cruz, California](https://en.wikipedia.org/wiki/Santa_Cruz,_California)
-	- [Camden, Maine](https://en.wikipedia.org/wiki/Camden,_Maine)
-	- [Eugene, Oregon](https://en.wikipedia.org/wiki/Eugene,_Oregon)
+    - [St. John, USVI](https://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands)
+  	- [Hanalei, Hawaii](https://en.wikipedia.org/wiki/Hanalei,_Hawaii)
+  	- [St. Helena, California](https://en.wikipedia.org/wiki/St._Helena,_California)
+  	- [Burlington, Vermont](https://en.wikipedia.org/wiki/Burlington,_Vermont)
+  	- [Bozeman, Montana](https://en.wikipedia.org/wiki/Bozeman,_Montana)
+  	- [Santa Cruz, California](https://en.wikipedia.org/wiki/Santa_Cruz,_California)
+  	- [Camden, Maine](https://en.wikipedia.org/wiki/Camden,_Maine)
+  	- [Eugene, Oregon](https://en.wikipedia.org/wiki/Eugene,_Oregon)
 
 
 #### People
 
   - ##### Other
-	- [David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
-	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
-	- [David Brooks](<https://en.wikipedia.org/wiki/David_Brooks_(journalist)>)
-	- [George Carlin](https://en.wikipedia.org/wiki/George_Carlin)
-	- [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
+  	- [David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
+  	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
+  	- [David Brooks](<https://en.wikipedia.org/wiki/David_Brooks_(journalist)>)
+  	- [George Carlin](https://en.wikipedia.org/wiki/George_Carlin)
+  	- [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
 
 
 #### Things
 
   - ##### Food & Drink
-	- [Pickles](https://en.wikipedia.org/wiki/Pickled_cucumber)
-	- [Balsamic Vinegar](https://en.wikipedia.org/wiki/Traditional_Balsamic_Vinegar)
-	- [Okra](https://en.wikipedia.org/wiki/Okra)
-	- [Avacado](https://en.wikipedia.org/wiki/Avocado)
-	- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon)
-	- [Mochi Ice Cream](https://en.wikipedia.org/wiki/Mochi_ice_cream)
+  	- [Pickles](https://en.wikipedia.org/wiki/Pickled_cucumber)
+  	- [Balsamic Vinegar](https://en.wikipedia.org/wiki/Traditional_Balsamic_Vinegar)
+  	- [Okra](https://en.wikipedia.org/wiki/Okra)
+  	- [Avacado](https://en.wikipedia.org/wiki/Avocado)
+  	- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon)
+  	- [Mochi Ice Cream](https://en.wikipedia.org/wiki/Mochi_ice_cream)
 
 
   - ##### Other Lists
-	- [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
-	- [List of Internet Phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
-	- [Lists of 100 best books](https://en.wikipedia.org/wiki/Lists_of_100_best_books)
-	- [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
-	- [List of colors in various languages](https://en.wikipedia.org/wiki/List_of_colors_in_various_languages)
+  	- [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
+  	- [List of Internet Phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
+  	- [Lists of 100 best books](https://en.wikipedia.org/wiki/Lists_of_100_best_books)
+  	- [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
+  	- [List of colors in various languages](https://en.wikipedia.org/wiki/List_of_colors_in_various_languages)
