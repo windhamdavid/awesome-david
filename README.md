@@ -2,34 +2,31 @@
 
 ##### a list of lists of things I like
 
----
+===
 
 [Art](#art) | [Books](#literature) | [Films](#film) | [Music](#music) | [Places](#places) | [People](#people) | [Things](#things)
 
----
-### Art
----
- #### Visual Art
+===
+
+### Art  
+ ##### Visual Art
   - ##### Artists
 	- [Lucian Freud](https://en.wikipedia.org/wiki/Lucian_Freud)
 	- [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
 	- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
-	- [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
-
----
-
+	- [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)  
 
 #### Literature
----
+
   - ##### Fiction
   	- [Midnight's Children](https://en.wikipedia.org/wiki/Midnight%27s_Children)
   	- [Siddhartha](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
   	- [Half Asleep in Frog Pajamas](https://en.wikipedia.org/wiki/Half_Asleep_in_Frog_Pajamas)
   	- [Lucky You](<https://en.wikipedia.org/wiki/Lucky_You_(novel)>)
----
+
 
   - ##### Non-Fiction
----  	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+  	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
   - ##### Authors
     - [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
@@ -39,31 +36,32 @@
     - [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
     - [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
     - [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
----
+
    - ##### Poets
   	- [Paul Muldoon](https://en.wikipedia.org/wiki/Paul_Muldoon)
----
+
   - ##### Magazine
   	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
   	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
   	- [Lapham's Quarterly](https://en.wikipedia.org/wiki/Lapham%27s_Quarterly)
----
+
   - ##### Online Journals
----  	- [The Public Domain Review](http://publicdomainreview.org/)
+  	- [The Public Domain Review](http://publicdomainreview.org/)
 
   - ##### Other
   	- [Shakespeare Authorship Theory](https://en.wikipedia.org/wiki/Shakespeare_authorship_question)
 
----
+
 #### Film
----
+
   - ##### Movie
   	- [Me and You and Everyone We Know](https://en.wikipedia.org/wiki/Me_and_You_and_Everyone_We_Know)
   	- [Hits](<https://en.wikipedia.org/wiki/Hits_(film)>)
   	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
   	- [Thumbsucker](<https://en.wikipedia.org/wiki/Thumbsucker_(film)>)
   	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
----
+
+
   - ##### Television  
     - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
   	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
@@ -85,12 +83,14 @@
   	- [Detectorists](https://en.wikipedia.org/wiki/Detectorists)
   	- [Chewin' the Fat](https://en.wikipedia.org/wiki/Chewin%27_the_Fat)
     - [Shetland](https://en.wikipedia.org/wiki/Shetland_(TV_series))
----
+
+
   - ##### Miniseries
   	- [The Life Collection](https://en.wikipedia.org/wiki/The_Life_Collection)
   	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
   	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
----
+
+
   - ##### People
   	- [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini)
   	- [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
@@ -98,14 +98,14 @@
   	- [Larry David](https://en.wikipedia.org/wiki/Larry_David)
   	- [Larry Charles](https://en.wikipedia.org/wiki/Larry_Charles)
 
----
+
 #### Music
----
   - ##### Currently Listening
     - [Currently Listening to:](https://davidawindham.com/studio/music)
     - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
     - [Last.fm profile](http://www.last.fm/user/windhamdavid)
----
+
+
   - ##### Artists
     - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
     - [Art Tatum](https://en.wikipedia.org/wiki/Art_Tatum)
@@ -121,13 +121,15 @@
     - [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
     - [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
     - [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)
----
+
+
   - ##### Albums
     - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
   	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
   	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
   	- [Before the Flood](https://en.wikipedia.org/wiki/Before_the_Flood_(album))
----
+
+
   - ##### Radio
   	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
   	- [Radio Paradise](https://en.wikipedia.org/wiki/Radio_Paradise)
@@ -139,16 +141,19 @@
   	- [WEVL](https://en.wikipedia.org/wiki/WEVL)
   	- [WFUV](https://en.wikipedia.org/wiki/WFUV)
   	- [Magic Transistor Radio](http://www.magictransistor.com/radio)
----
+
+
+
 #### Places
----
+
   - ##### World
   	- [Nice, France](https://en.wikipedia.org/wiki/London)
   	- [London, England](https://en.wikipedia.org/wiki/London)
   	- [Frankfurt, Germany](https://en.wikipedia.org/wiki/Frankfurt)
   	- [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago)
   	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)
----
+
+
   - ##### US
     - [St. John, USVI](https://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands)
   	- [Hanalei, Hawaii](https://en.wikipedia.org/wiki/Hanalei,_Hawaii)
@@ -158,18 +163,20 @@
   	- [Santa Cruz, California](https://en.wikipedia.org/wiki/Santa_Cruz,_California)
   	- [Camden, Maine](https://en.wikipedia.org/wiki/Camden,_Maine)
   	- [Eugene, Oregon](https://en.wikipedia.org/wiki/Eugene,_Oregon)
----
+
+
 #### People
----
+
   - ##### Other
   	- [David Byrne](https://en.wikipedia.org/wiki/David_Byrne)
   	- [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)
   	- [David Brooks](<https://en.wikipedia.org/wiki/David_Brooks_(journalist)>)
   	- [George Carlin](https://en.wikipedia.org/wiki/George_Carlin)
   	- [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
----
+
+
 #### Things
----
+
   - ##### Food & Drink
   	- [Pickles](https://en.wikipedia.org/wiki/Pickled_cucumber)
   	- [Balsamic Vinegar](https://en.wikipedia.org/wiki/Traditional_Balsamic_Vinegar)
@@ -177,11 +184,11 @@
   	- [Avacado](https://en.wikipedia.org/wiki/Avocado)
   	- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon)
   	- [Mochi Ice Cream](https://en.wikipedia.org/wiki/Mochi_ice_cream)
----
+
+
   - ##### Other Lists
   	- [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
   	- [List of Internet Phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
   	- [Lists of 100 best books](https://en.wikipedia.org/wiki/Lists_of_100_best_books)
   	- [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
   	- [List of colors in various languages](https://en.wikipedia.org/wiki/List_of_colors_in_various_languages)
----
