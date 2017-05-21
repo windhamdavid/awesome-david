@@ -4,7 +4,7 @@
 
 ===
 
-[Art](#art) | [Books](#art) | [Films](#film) | [Music](#music) | [Places](#places) | [People](#people) | [Things](#things)
+[Art](#art) | [Books](#literature) | [Films](#film) | [Music](#music) | [Places](#places) | [People](#people) | [Things](#things)
 
 ===
 
@@ -15,8 +15,8 @@
 	- [Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
 	- [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
-	  
-  
+
+
 #### Literature
 
   - ##### Fiction
@@ -24,12 +24,12 @@
 	- [Siddhartha](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
 	- [Half Asleep in Frog Pajamas](https://en.wikipedia.org/wiki/Half_Asleep_in_Frog_Pajamas)
 	- [Lucky You](<https://en.wikipedia.org/wiki/Lucky_You_(novel)>)
-	
+
 
   - ##### Non-Fiction
-	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) 
+	- [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
-	
+
   - ##### Authors
 	- [J. D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger)
 	- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
@@ -38,7 +38,7 @@
 	- [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
 	- [Carson McCullers](https://en.wikipedia.org/wiki/Carson_McCullers)
 	- [Tom Robbins](https://en.wikipedia.org/wiki/Tom_Robbins)
-	
+
    - ##### Poets
 	- [Paul Muldoon](https://en.wikipedia.org/wiki/Paul_Muldoon)
 
@@ -46,14 +46,14 @@
 	- [Five Dials](https://en.wikipedia.org/wiki/Five_Dials)
 	- [Paris Review](https://en.wikipedia.org/wiki/The_Paris_Review)
 	- [Lapham's Quarterly](https://en.wikipedia.org/wiki/Lapham%27s_Quarterly)
-	
+
   - ##### Online Journals
 	- [The Public Domain Review](http://publicdomainreview.org/)
 
   - ##### Other
 	- [Shakespeare Authorship Theory](https://en.wikipedia.org/wiki/Shakespeare_authorship_question)
-  	
-  
+
+
 #### Film
 
   - ##### Movie
@@ -62,10 +62,10 @@
 	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
 	- [Thumbsucker](<https://en.wikipedia.org/wiki/Thumbsucker_(film)>)
 	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
-  	
 
-  - ##### Television
-   - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
+
+  - ##### Television  
+    - [Doc Martin](https://en.wikipedia.org/wiki/Doc_Martin)
 	- [Enlightened](https://en.wikipedia.org/wiki/Enlightened_%28TV_series%29)
 	- [The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)
 	- [Board to Death](https://en.wikipedia.org/wiki/Bored_to_Death)
@@ -84,32 +84,32 @@
 	- [Still Game](https://en.wikipedia.org/wiki/Still_Game)
 	- [Detectorists](https://en.wikipedia.org/wiki/Detectorists)
 	- [Chewin' the Fat](https://en.wikipedia.org/wiki/Chewin%27_the_Fat)
-	
+  - [Shetland](https://en.wikipedia.org/wiki/Shetland_(TV_series))
+
 
   - ##### Miniseries
 	- [The Life Collection](https://en.wikipedia.org/wiki/The_Life_Collection)
 	- [John Adams](<https://en.wikipedia.org/wiki/John_Adams_(miniseries)>)
 	- [Stephen Fry in America](https://en.wikipedia.org/wiki/Stephen_Fry_in_America)
-		
 
-  - ##### People 
+
+  - ##### People
 	- [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini)
 	- [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen)
 	- [Werner Herzog](https://en.wikipedia.org/wiki/Werner_Herzog)
 	- [Larry David](https://en.wikipedia.org/wiki/Larry_David)
 	- [Larry Charles](https://en.wikipedia.org/wiki/Larry_Charles)
 
-	
-#### Music
 
-  - ###### Listening to:
-	- [Currently Listening to:](https://davidawindham.com/studio/music)
-   - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
+#### Music
+- ##### Currently Listening
+	 - [Currently Listening to:](https://davidawindham.com/studio/music)
+    - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
    - [Last.fm profile](http://www.last.fm/user/windhamdavid)
-  
+
 
   - ##### Artists
-   - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
+    - [Bill Evans](https://en.wikipedia.org/wiki/Bill_Evans)
 	- [Art Tatum](https://en.wikipedia.org/wiki/Art_Tatum)
 	- [Hank Jones](https://en.wikipedia.org/wiki/Hank_Jones)
 	- [Erroll Garner](https://en.wikipedia.org/wiki/Erroll_Garner)
@@ -121,16 +121,16 @@
 	- [Johnny Adams](https://en.wikipedia.org/wiki/Johnny_Adams)
 	- [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal)
 	- [Terry Riley](https://en.wikipedia.org/wiki/Terry_Riley)
-	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)	
-	- [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)	
-	
+	- [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k)
+	- [Oscar Peterson](https://en.wikipedia.org/wiki/Oscar_Peterson)
+
 
   - ##### Albums
-   - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
+    - [Bill Evans - The Complete Fantasy Recordings](https://en.wikipedia.org/wiki/Bill_Evans_discography)
 	- [Duke Ellington & John Coltrane](https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane)
 	- [Modern Sounds in Country and Western Music](https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music)
 	- [Before the Flood](https://en.wikipedia.org/wiki/Before_the_Flood_(album))
-  
+
 
   - ##### Radio
 	- [KCRW](https://en.wikipedia.org/wiki/KCRW)
@@ -153,7 +153,7 @@
 	- [London, England](https://en.wikipedia.org/wiki/London)
 	- [Frankfurt, Germany](https://en.wikipedia.org/wiki/Frankfurt)
 	- [Santiago, Chile](https://en.wikipedia.org/wiki/Santiago)
-	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)	
+	- [Mumbai, India](https://en.wikipedia.org/wiki/Mumbai)
 
 
   - ##### US
@@ -175,7 +175,7 @@
 	- [David Brooks](<https://en.wikipedia.org/wiki/David_Brooks_(journalist)>)
 	- [George Carlin](https://en.wikipedia.org/wiki/George_Carlin)
 	- [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
-	
+
 
 #### Things
 
@@ -187,7 +187,7 @@
 	- [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon)
 	- [Mochi Ice Cream](https://en.wikipedia.org/wiki/Mochi_ice_cream)
 
-  
+
   - ##### Other Lists
 	- [Wikipedia Lists of lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
 	- [List of Internet Phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
