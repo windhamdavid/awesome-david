@@ -102,10 +102,10 @@
 
 
 #### Music
-- ##### Currently Listening
-  	 - [Currently Listening to:](https://davidawindham.com/studio/music)
-     - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
-     - [Last.fm profile](http://www.last.fm/user/windhamdavid)
+  - ##### Currently Listening
+    - [Currently Listening to:](https://davidawindham.com/studio/music)
+    - [Recent Tracks and Albums](https://davidawindham.com/studio/music)
+    - [Last.fm profile](http://www.last.fm/user/windhamdavid)
 
 
   - ##### Artists
