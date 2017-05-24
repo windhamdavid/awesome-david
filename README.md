@@ -60,6 +60,7 @@
   	- [Papadopoulos and Sons](https://en.wikipedia.org/wiki/Papadopoulos_%26_Sons)
   	- [Thumbsucker](<https://en.wikipedia.org/wiki/Thumbsucker_(film)>)
   	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
+    - [Kubo and the Two Strings](https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings)
 
 
   - ##### Television  
