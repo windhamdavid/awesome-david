@@ -61,6 +61,7 @@
   	- [Thumbsucker](<https://en.wikipedia.org/wiki/Thumbsucker_(film)>)
   	- [Rushmore](<https://en.wikipedia.org/wiki/Rushmore_(film)>)
     - [Kubo and the Two Strings](https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings)
+    - [Boyhood](https://en.wikipedia.org/wiki/Boyhood_(film)>)
 
 
   - ##### Television  
